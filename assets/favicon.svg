@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Porchlight and Pine">
+  <rect width="64" height="64" rx="12" fill="#2F5B3A"/>
+  <path d="M32 11 43 30H21z" fill="#FBF7EF"/>
+  <path d="M32 21 46 44H18z" fill="#FBF7EF"/>
+  <rect x="29" y="43" width="6" height="10" rx="1.5" fill="#9C3B2E"/>
+</svg>
